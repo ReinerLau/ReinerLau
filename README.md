@@ -22,5 +22,3 @@
 ![apifox](https://img.shields.io/badge/Apifox-F44A53.svg?style=for-the-badge&logo=Apifox&logoColor=white)
 
 [![ReinerLau's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReinerLau)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinerLau)](https://github.com/anuraghazra/github-readme-stats)
