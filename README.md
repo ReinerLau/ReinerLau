@@ -21,4 +21,4 @@
 ![echarts](https://img.shields.io/badge/Apache%20ECharts-AA344D.svg?style=for-the-badge&logo=Apache-ECharts&logoColor=white)
 ![apifox](https://img.shields.io/badge/Apifox-F44A53.svg?style=for-the-badge&logo=Apifox&logoColor=white)
 
-[![ReinerLau's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReinerLau)](https://github.com/anuraghazra/github-readme-stats)
+![ReinerLau's GitHub stats](https://pixel-profile-ui.vercel.app/api/github-stats?username=ReinerLau&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=monica&theme=monica&color=%23ffffffFF)
